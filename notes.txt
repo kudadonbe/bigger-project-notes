@@ -1,0 +1,3 @@
+Reading list
+https://www.adservio.fr/post/how-to-organize-angular-project-top-5-tips
+https://blog.logrocket.com/angular-modules-best-practices-for-structuring-your-app/
